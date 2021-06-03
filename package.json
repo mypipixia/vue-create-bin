@@ -1,0 +1,7 @@
+{
+  "name": "vue-create-bin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yqf",
+  "license": "MIT"
+}
