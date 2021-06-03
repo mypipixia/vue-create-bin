@@ -1,11 +1,11 @@
 {
-  "name": "vue-create-bin",
+  "name": "vuebiny",
   "version": "1.0.0",
   "main": "index.js",
   "author": "yqf",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mypipixia/vue-create-bin"
+    "url": "git@github.com:mypipixia/vuebiny"
   }
 }
